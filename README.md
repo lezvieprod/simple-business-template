@@ -6,6 +6,8 @@ Business template - легкий адаптивный дизайн, которы
 ## Description  
 A business template is a lightweight responsive design that fits any theme. Easy to customize. During the development, technologies were used: HTML5, Bootstrap 4.5.3, jQuery 3.2.1, aos.js and swiper.js.
 
+![alt text](https://github.com/lezvieprod/simple-business-template/blob/main/images/template.png)
+
 ## Credits
 
 Framework  http://getbootstrap.com  
